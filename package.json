@@ -1,0 +1,19 @@
+{
+  "name": "cli-based-to-do-list-pprroojjeecctt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Shahzaib Khan",
+  "license": "MIT",
+  "description": "This is a to-do  list project.",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
